@@ -1,0 +1,14 @@
+Summary: Judgment on Complaint under Section 138 of the Negotiable Instruments Act
+Introduction
+This text discusses a judgment from the Supreme Court of India regarding a complaint filed under Section 138 of the Negotiable Instruments Act. The case involves a dispute over a cheque issued by the respondent, which was returned due to insufficient funds. The Trial Court initially dismissed the complaint, but the Supreme Court upheld it, finding that the cheque was indeed issued by the respondent.
+Key Points
+The complaint was dismissed initially due to contradictions in the evidence regarding the number of apple cartons and the amount owed.
+The High Court established that a cheque carries a presumption of consideration unless proven otherwise.
+The burden of proof is on the accused to rebut the presumption of consideration by providing evidence or circumstances to show that no debt existed.
+The court discusses the presumption of debt or liability under Section 139 of the Act and states that it may fail if the accused raises a probable defense.
+The court emphasizes that the presumption under Section 139 is a device to prevent undue delay in litigation and that dishonoring a check is largely a civil wrong.
+The respondent in this case failed to provide any evidence to rebut the presumption of consideration in issuing the cheque.
+The courts below were criticized for dismissing the complaint based on discrepancies in the determination of the amount due.
+The respondent is held guilty of dishonoring the cheque and is ordered to pay a fine and costs.
+Conclusion
+In conclusion, the Supreme Court of India upheld a complaint filed under Section 138 of the Negotiable Instruments Act. The court found that the cheque was issued by the respondent and criticized the lower courts for dismissing the complaint based on discrepancies in the evidence. The court emphasized the presumption of consideration under Section 139 and held the respondent guilty of dishonoring the cheque. The respondent was ordered to pay a fine and costs.
